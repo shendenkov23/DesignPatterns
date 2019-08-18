@@ -5,7 +5,7 @@ Creational pattern:
 - [x] Abstract factory
 - [x] Builder 
 - [x] Factory method
-- [ ] Prototype
+- [x] Prototype
 - [ ] Singleton
 
 Structural patterns:
