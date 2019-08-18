@@ -4,7 +4,7 @@ GangOfFour's Design Patterns. Swift implementation
 Creational pattern:
 - [x] Abstract factory
 - [x] Builder 
-- [ ] Factory method
+- [x] Factory method
 - [ ] Prototype
 - [ ] Singleton
 
