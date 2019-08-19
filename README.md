@@ -6,7 +6,7 @@ Creational pattern:
 - [x] Builder 
 - [x] Factory method
 - [x] Prototype
-- [ ] Singleton
+- [x] Singleton
 
 Structural patterns:
 - [ ] Adapter
