@@ -12,7 +12,7 @@ Structural patterns:
 - [x] Adapter (inheritance)
 - [x] Adapter (composition)
 - [x] Bridge
-- [ ] Composite
+- [x] Composite
 - [ ] Decorator
 - [ ] Facade
 - [ ] Flyweight
