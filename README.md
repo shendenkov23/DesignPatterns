@@ -9,7 +9,8 @@ Creational pattern:
 - [x] Singleton
 
 Structural patterns:
-- [ ] Adapter
+- [x] Adapter (inheritance)
+- [x] Adapter (composition)
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
