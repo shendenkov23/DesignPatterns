@@ -11,7 +11,7 @@ Creational pattern:
 Structural patterns:
 - [x] Adapter (inheritance)
 - [x] Adapter (composition)
-- [ ] Bridge
+- [x] Bridge
 - [ ] Composite
 - [ ] Decorator
 - [ ] Facade
