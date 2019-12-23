@@ -29,10 +29,10 @@ class ArcherSpawner: Spawner {
   func createUnit() -> Unit { return Archer() }
 }
 
-let creators: [Creator] = [FootmanSpawner(),
+let spawners: [Spawner] = [FootmanSpawner(),
                            ArcherSpawner()]
 
-creators.forEach {
+spawners.forEach {
   let unit = $0.createUnit()
   print(unit.getTitle())
 }
